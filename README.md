@@ -1,3 +1,6 @@
+## Login
+If needed, login to psql with `sudo -u postgres psql`;
+
 ## Creating The DB
 
 Use the `psql -U development` command to login to the PostgreSQL server with the username `development` and the password `development`. This command **MUST** be run in a vagrant terminal, we are using the PostgreSQL installation provided in the vagrant environment.
